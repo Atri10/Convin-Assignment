@@ -9,7 +9,7 @@ python manage.py runserver 8000
 
 # Test Case
 
-To Fetch Data from Sales Force and save it to database visit this URL
+To Fetch Data from Sales Force and Store it to database visit this URL
 ```
 http://127.0.0.1:8000/salesforce/pull
 ```
