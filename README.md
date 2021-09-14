@@ -1,4 +1,4 @@
-# Django Salesforce API integration (Without 3rd Party Library)
+# Django Salesforce API integration (Without Library)
 
 # How to run
 
